@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5"/>
+	<classpathentry kind="lib" path="/home/hduser1/pig-0.16.0/pig-0.16.0-core-h2.jar"/>
+	<classpathentry kind="lib" path="/home/hduser1/pig-0.16.0/lib/antlr-runtime-3.4.jar"/>
+	<classpathentry kind="lib" path="/home/hduser1/pig-0.16.0/lib/ST4-4.0.4.jar"/>
+	<classpathentry kind="lib" path="/home/hduser1/pig-0.16.0/lib/jline-1.0.jar"/>
+	<classpathentry kind="lib" path="/home/hduser1/pig-0.16.0/lib/jackson-core-asl-1.9.13.jar"/>
+	<classpathentry kind="lib" path="/home/hduser1/pig-0.16.0/lib/jackson-mapper-asl-1.9.13.jar"/>
+	<classpathentry kind="lib" path="/home/hduser1/pig-0.16.0/lib/guava-11.0.jar"/>
+	<classpathentry kind="lib" path="/home/hduser1/pig-0.16.0/lib/joda-time-2.9.3.jar"/>
+	<classpathentry kind="lib" path="/home/hduser1/pig-0.16.0/lib/automaton-1.11-8.jar"/>
+	<classpathentry kind="lib" path="/home/hduser1/pig-0.16.0/lib/jansi-1.9.jar"/>
+	<classpathentry kind="lib" path="/home/hduser1/pig-0.16.0/lib/avro-1.7.5.jar"/>
+	<classpathentry kind="lib" path="/home/hduser1/pig-0.16.0/lib/avro-tools-1.7.5-nodeps.jar"/>
+	<classpathentry kind="lib" path="/home/hduser1/pig-0.16.0/lib/trevni-avro-1.7.5.jar"/>
+	<classpathentry kind="lib" path="/home/hduser1/pig-0.16.0/lib/trevni-core-1.7.5.jar"/>
+	<classpathentry kind="lib" path="/home/hduser1/pig-0.16.0/lib/snappy-java-1.1.0.1.jar"/>
+	<classpathentry kind="lib" path="/home/hduser1/Downloads/commons-logging-1.2/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="/home/hduser1/Downloads/commons-logging-1.2/commons-logging-1.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="/home/hduser1/pig-0.16.0/lib/hadoop1-runtime/hadoop-core-1.0.4.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
